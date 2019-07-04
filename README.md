@@ -18,6 +18,7 @@ In Nicecoin the double spending is impossible because:
 1. Since user has created a transaction the user’s assets are decreased on the amount of transaction;
 2. The transaction cannot be added and existing more than in one block.
 
+
 Nicecoin supports multiple transactions and Merkle tree in Block in the script block.py.
 
 ### Dependencies
